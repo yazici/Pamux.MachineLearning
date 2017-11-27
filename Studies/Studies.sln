@@ -7,6 +7,10 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Study01", "Study01\Study01.
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Study02", "Study02\Study02.pyproj", "{B1D2CC1A-13A9-4993-81A2-94FA1E48351D}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Study03-TensorFlow", "Study03-TensorFlow\Study03-TensorFlow.pyproj", "{F22F8E6C-9B78-4B3A-980D-4811B0A52E22}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "OfficialTensorFlowTutorials", "OfficialTensorFlowTutorials\OfficialTensorFlowTutorials.pyproj", "{6CCA11C5-D3AD-4D36-8655-7E0F8ECC771C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +21,10 @@ Global
 		{84A1D68B-776D-41A2-85DB-D7E243DA38EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1D2CC1A-13A9-4993-81A2-94FA1E48351D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B1D2CC1A-13A9-4993-81A2-94FA1E48351D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F22F8E6C-9B78-4B3A-980D-4811B0A52E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F22F8E6C-9B78-4B3A-980D-4811B0A52E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CCA11C5-D3AD-4D36-8655-7E0F8ECC771C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CCA11C5-D3AD-4D36-8655-7E0F8ECC771C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

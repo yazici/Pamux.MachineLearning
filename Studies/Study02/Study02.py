@@ -33,6 +33,9 @@ class Study02(object):
             subplot.text(0, 7, str(self.digits.target[i]))
 
         plot.show()
+
+# zip: Make an iterator that aggregates elements from each of the iterables.  https://docs.python.org/3/library/functions.html#zip
+
     
     def ShowDigits2(self):
         images_and_labels = list(zip(self.digits.images, self.digits.target))
